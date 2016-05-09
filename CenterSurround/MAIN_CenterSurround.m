@@ -1,4 +1,4 @@
-% Please cite **** TO BE ADDED ****
+% Please cite A. Cattani, S. Solinas, C. Canuto. A Hybrid Model for the Computationally-Efficient Simulation of the Cerebellar Granular Layer. Frontiers in Computational Neuroscience (2016)
 
 clear all
 close all
